@@ -1,6 +1,5 @@
 #include "person.hpp"
 #include <stdlib.h>
-#include "person.hpp"
 void randName(person thePerson){
     string firstNames[20] = {"Greg", "Joe", "Donald", "Jesus", "Justin", "Victor",
                              "Danieva", "Sina", "Francis", "Jamie", "Theresa", "Meredith",
