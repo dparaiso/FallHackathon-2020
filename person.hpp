@@ -9,7 +9,8 @@ struct person {
   gender g; 
 };
 
-enum haircolor: char { black, blonde, brown, red, otherHaircolor};
-enum gender: char { male, female, other};
+
+std::string haircolor[] = { black, blonde, brown, red, otherHaircolor};
+std::string gender[] = { male, female, other};
 
 #endif // PERSON.H
