@@ -9,7 +9,7 @@ struct person {
   gender g; 
 };
 
-enum haircolor: char { black, blonde, brown, red, other};
-
+enum haircolor: char { black, blonde, brown, red, otherHaircolor};
+enum gender: char { male, female, other};
 
 #endif // PERSON.H
