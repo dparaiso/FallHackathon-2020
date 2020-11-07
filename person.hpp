@@ -2,25 +2,14 @@
 <<<<<<< Updated upstream
 #ifndef PERSON.H
 
-class person{
-enum hair: char { black, blonde, brown, red, other};
-
-
-
-
+struct person {
+  long long int currency;
+  firstName name;
+  haircolor hair; 
+  gender g; 
 };
-typedef 
 
+enum haircolor: char { black, blonde, brown, red, other};
 
-
-
-
-
-
-
-
-
-
-}
 
 #endif // PERSON.H
