@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< Updated upstream
 #ifndef PERSON.H
 
 class person{
