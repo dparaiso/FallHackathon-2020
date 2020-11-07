@@ -13,6 +13,6 @@ struct person {
 
 
 std::string haircolor[] = { "black", "blonde", "brown", "red", "dblonde"};
-std::char gender[] = { 'm', 'f', 'o'};
+char gender[] = { 'm', 'f', 'o'};
 
 #endif // PERSON.H
