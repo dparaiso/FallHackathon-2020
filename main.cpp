@@ -253,7 +253,7 @@ person question(person p, int &smart, int &happiness, int &responsibility, int &
         }
         else if (rando2 == 6){
           cout << "You're behind in all of your classes, do you\n"
-               << "want to quit your job? (y/n)\n";
+               << " want to quit your job? (y/n)\n";
           cin >> decision;
           if (decision == 'y' || decision == 'Y'){
             p.job = u;
@@ -294,7 +294,7 @@ person question(person p, int &smart, int &happiness, int &responsibility, int &
                << "this to court, do you? (y/n)\n";
           cin >> decision; 
           if (decision == 'y' || decision == 'Y'){
-            cout << "That cost 3000 dollars, you got your PS4 back though!\n";
+            cout << "That cost $3000, you got your PS4 back though!\n";
             p.currency -= 3000;
             smart--;
             responsibility++;
