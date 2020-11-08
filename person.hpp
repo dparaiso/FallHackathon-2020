@@ -41,7 +41,7 @@ const string job[15] = {"Tim Hortons", "McDonalds", "Walmart", "Save-on-Foods", 
 
 const string career[30] = {"Computer Engineer", "Software Engineer", "Electronics Engineer", "Politician", "Mechanical Engineer", "Civil Engineer", "Thug", "Biomedical Engineer", "Stripper", "Prostitute", "Hooters Server", "Chemical Engineer", "Electrician", "Depressed Computer Scientist", "Doctor", "Lawyer", "Physicist", "Hippie", "Bezos", "Musician", "Actor", "Chef", "Rapist Therapist", "IT Developer", "Influencer", "Banker", "Astronaut", "Builder", "Technical Support", "Nurse"};
 
-const string deaths[10] = {"getting hit by battle bus", "getting hit by a submarine"  "getting struck by lighting that einstein caused", "getting executed", "smelling someone's fart", "eating too many samosas", "sharting too much", "giving it to your cousin", "supporting Trump and Melania", "catching COVID"};
+const string deaths[10] = {"getting hit by battle bus", "getting hit by a submarine", "getting struck by lighting", "getting executed", "smelling someone's fart", "eating too many samosas", "sharting too much", "filming a video with your step", "supporting Trump", "catching COVID"};
 
 birthday set_birthday(){
   birthday theBirth;
