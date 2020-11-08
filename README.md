@@ -7,3 +7,6 @@ Instructions:
 1. Run the program 
 2. Follow the flow of the program and answer the question accordingly
 3. Answer the questions until you are deemed dead
+
+Video of how the program works: 
+1. https://www.youtube.com/watch?v=C3zizJQ6YNg 
